@@ -9,12 +9,12 @@
   "author": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zfbTony/Discord-Bot-Template.git"
+    "url": "git+https://github.com/avchikar97/NagisaBot.git"
   },
   "license": "MIT",
   "dependencies": {
     "discord.js": "^11.4.2",
-    "discord.js-commando": "^0.10.0"
+    "discord.js-commando": "^0.10.0",
+    "mongoose": "^5.2.9"
   }
-
 }
